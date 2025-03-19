@@ -1,4 +1,4 @@
-# Realistic Few-shot Class-incremental Audio Classification Using Task-Adapt Audio-Language Models and Prototype Evolution
+# TAPE: Task-Adapt and Prototype Evolution in Audio-Language Models
 
 ## quick start
 
