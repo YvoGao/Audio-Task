@@ -11,14 +11,14 @@ from pengi import pengi
 from utils import get_parse
 
 
-FSC89_datapath = "/data/gaoyunlong/dataset/Audio/dataset_FSC89/"
-FSC89_metapath = "/data/gaoyunlong/dataset/Audio/dataset_FSC89/meta/"
+FSC89_datapath = "/your_path/dataset_FSC89/"
+FSC89_metapath = "/your_path/dataset_FSC89/meta/"
 
-Ny100_datapath = "/data/gaoyunlong/dataset/Audio/dataset_Nsynth/"
-Ny100_metapath = "/data/gaoyunlong/dataset/Audio/dataset_Nsynth/"
+Ny100_datapath = "/your_path/dataset_Nsynth/"
+Ny100_metapath = "/your_path/dataset_Nsynth/"
 
-LBS100_datapath = "/data/gaoyunlong/dataset/Audio/datasets_LibiriSpeech/"
-LBS100_metapath = "/data/gaoyunlong/dataset/Audio/ls100-meta/"
+LBS100_datapath = "/your_path/datasets_LibiriSpeech/"
+LBS100_metapath = "/your_path/ls100-meta/"
 
 
 
