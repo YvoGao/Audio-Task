@@ -16,7 +16,7 @@ config = ASTConfig.from_pretrained('/data/your_path/model/AST/')
 
 # 加载预训练的AST模型
 model = ASTModel.from_pretrained('/data/your_path/model/AST/', config=config)
-feature_extractor = AutoFeatureExtractor.from_pretrained('/data/gaoyunlong/model/AST/')
+feature_extractor = AutoFeatureExtractor.from_pretrained('/data/your_path/model/AST/')
 # 将模型移到GPU（如果有）
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model.to(device)
